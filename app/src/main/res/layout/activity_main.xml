@@ -63,7 +63,10 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:gravity="center_vertical|right"
+                    android:background="@color/colorAccent"
                     android:paddingLeft="10dp"
+                    android:text="Slide Up!"
+                    android:textColor="#fff"
                     android:paddingRight="10dp"
                     android:textSize="14sp" />
 
